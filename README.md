@@ -4,9 +4,9 @@
 
 ## 🚀 About Me
 - 🌱 Currently learning: [e.g., React, Arduino IoT, Differential Geometry]
-- 🔭 Working on: [e.g., Bantra – a Bangla transcriber and note generator]
-- 💬 Ask me about: [topics you’re comfortable with, e.g., JavaScript, SageMath, Complex Analysis]
-- ⚡ Fun fact: [something fun/quirky about you]
+- 🔭 Working on: ML
+- 💬 Ask me about: Music
+- ⚡ Fun fact: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 ---
 
